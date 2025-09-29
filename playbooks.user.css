@@ -1,0 +1,21 @@
+/* ==UserStyle==
+@name           Antique White Play Books
+@namespace      https://github.com/ewigl/playbooks-enhanced
+@version        1.0.0
+@description    Antique white color for Play Books' light theme reader.
+@author         Licht
+==/UserStyle== */
+
+@-moz-document url-prefix("https://books.googleusercontent.com/books/reader/frame")
+{
+  .ng-star-inserted {
+    background: transparent;
+  }
+  .mat-app-background {
+    background: antiquewhite;
+  }
+  .gb-page-shadow-main {
+    display: none;
+  }
+  /*     .mat-app-background.-gb-dark {} */
+}
