@@ -9,8 +9,8 @@
 
 @-moz-document url-prefix("https://books.googleusercontent.com/books/reader/frame")
 {
-  .ng-star-inserted {
-    background: transparent;
+  reader-app-bar[role="navigation"] {
+    background: antiquewhite;
   }
   .mat-app-background {
     background: antiquewhite;
