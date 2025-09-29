@@ -4,6 +4,8 @@
 
 > [Stylus](https://github.com/openstyles/stylus) Styles.
 
+Change the background color of the light theme to antique white.
+
 ### Installation
 
 [UserStyles.world](https://userstyles.world/style/24418/)
