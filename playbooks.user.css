@@ -10,7 +10,7 @@
 @-moz-document url-prefix("https://books.googleusercontent.com/books/reader/frame")
 {
   reader-app-bar[role="navigation"] {
-    background: antiquewhite;
+    background: transparent;
   }
   .mat-app-background {
     background: antiquewhite;
