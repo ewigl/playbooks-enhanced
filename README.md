@@ -14,4 +14,4 @@ Change the background color of the light theme to antique white.
 
 ### Preview
 
-![css preview](https://github.com/user-attachments/assets/e8fec8be-1af9-4801-84d9-af010ee1c117)
+![preview](https://github.com/user-attachments/assets/6599182f-0a00-4557-b86f-762e2d9ecf6e)
